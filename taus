@@ -1,0 +1,35 @@
+[33mcommit 30b976dbccdef70a2f363a47e69420d655c9b6a3[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Wema Lugalla <150550352+wemal@users.noreply.github.com>
+Date:   Mon Jan 1 13:05:02 2024 -0500
+
+    Added image of the dish to the cabbage soup webpage
+
+[33mcommit 6aba3956fc7af83ccb6c3c53037eab2db3150612[m
+Author: Wema Lugalla <150550352+wemal@users.noreply.github.com>
+Date:   Mon Jan 1 13:01:15 2024 -0500
+
+    Added link to the recipe in the homepage
+
+[33mcommit cfabcfbb0903fffa85848fff3a6c7d367fd4c9e6[m
+Author: Wema Lugalla <150550352+wemal@users.noreply.github.com>
+Date:   Mon Jan 1 12:53:23 2024 -0500
+
+    Created the html file for the Cabbage Soup Recipe and added a heading
+
+[33mcommit 980f5e8cdeca44bb22b26dc3e4c71b58ce289d78[m
+Author: Wema Lugalla <150550352+wemal@users.noreply.github.com>
+Date:   Mon Jan 1 12:44:58 2024 -0500
+
+    Added the Odin Recipes heading
+
+[33mcommit ac49177ae908cd0a09cb23b6ab51675f3241cbdf[m
+Author: Wema Lugalla <150550352+wemal@users.noreply.github.com>
+Date:   Mon Jan 1 12:39:32 2024 -0500
+
+    Created the HTML boilerplate as the foundation to mysite
+
+[33mcommit e37a87b2fe47d411570293eeb52bbd1658bb88f6[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: wemal <150550352+wemal@users.noreply.github.com>
+Date:   Mon Jan 1 11:44:05 2024 -0500
+
+    Initial commit
